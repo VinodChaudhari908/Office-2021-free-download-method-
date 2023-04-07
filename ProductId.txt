@@ -1,0 +1,18 @@
+1:)Find your system Product Key Through these Commond
+
+CMD commod for find Product Key
+==================================
+wmic path softwarelicensingservice get OA3xOriginalProductKey
+=======================
+2:) Visit for office Customization
+==============================
+https://config.office.com/deploymentsettings
+3:)
+Visit For office deployment tool:
+=====================================
+https://www.microsoft.com/en-us/download/details.aspx?id=49117
+---------------------
+
+4:)for office Activation:
+-----------------------------
+https://buzz2daytech.blogspot.com/2022/04/activate-office-2021-using-cmd.html
